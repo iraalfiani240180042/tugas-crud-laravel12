@@ -1,4 +1,5 @@
-# Aplikasi CRUD Buku (Laravel)
+
+# Aplikasi CRUD Buku (Laravel12)
 
 ## Deskripsi
 
@@ -38,7 +39,7 @@ Untuk memenuhi tugas CRUD menggunakan laravel v12
 1. Clone repository
 
 ```bash
-git clone https://github.com/username/crud-buku.git
+git clone https://github.com/iraalfiani240180042/tugas-crud-laravel12.git
 ```
 
 2. Masuk ke folder project
@@ -118,5 +119,3 @@ Field yang digunakan:
 * NIM: 240180042
 
 ---
-
-
